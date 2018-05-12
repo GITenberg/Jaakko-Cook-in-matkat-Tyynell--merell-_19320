@@ -1,0 +1,26 @@
+_repo: Jaakko-Cook-in-matkat-Tyynell--merell-_19320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hassell, Antti Fredrik
+    birthdate: 1855
+    gutenberg_agent_id: '8596'
+    url: http://www.gutenberg.org/2009/agents/8596
+description: ''
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19320'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cook, James, 1728-1779'
+- !lcc 'G'
+- !lcsh 'Oceania -- Discovery and exploration'
+title: Jaakko Cook'in matkat Tyynellä merellä
+url: http://www.gutenberg.org/ebooks/19320
